@@ -1,7 +1,7 @@
 # funceme-2018
 
 1. Desenvolvimento: 
-	1.1 C, 
+	* 1.1 C, 
 	1.2 C++, 
 	1.3 JSON, 
 	1.4 Geospatial Data Abstraction Library (GDAL 1.11); 
